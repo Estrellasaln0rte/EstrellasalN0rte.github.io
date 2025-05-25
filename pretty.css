@@ -18,7 +18,7 @@ body {
 	color: white;
 }
 
-/* common styles */
+
 img {
 	width: 100%;
 }
@@ -55,7 +55,7 @@ a {
 	font-weight: 400;
 }
 
-/* layouts */
+
 .container {
 	max-width: 1000px;
 	width: 90%;
@@ -105,7 +105,7 @@ a {
 	}
 }
 
-/* profile */
+
 .profile_container {
 	display: flex;
 	gap: 2rem;
@@ -148,14 +148,14 @@ a {
 	}
 }
 
-/* Expertise */
+
 .skills_list {
 	margin-top: 1rem;
 	margin-left: 2rem;
 	line-height: 2;
 }
 
-/* Ref  */
+
 .ref_item {
 	margin-top: 2rem;
 }
@@ -164,25 +164,27 @@ a {
 	font-weight: 700;
 }
 
-/* eduction */
+
 .edu_item {
 	margin-top: 2rem;
 }
 
-/* certification */
+
 .certification_item {
 	margin-top: 2rem;
 }
-/* exp */
+
+
 .exp_item {
 	margin-top: 2rem;
 }
 
-/* awards */
+
 .awards_item {
 	margin-top: 2rem;
 }
-/* Interests */
+/
+
 .interest_items {
 	margin-top: 2rem;
 	display: flex;
@@ -203,7 +205,7 @@ a {
 	width: 2rem;
 }
 
-/* socials */
+
 .social_items {
 	margin-top: 2rem;
 }
